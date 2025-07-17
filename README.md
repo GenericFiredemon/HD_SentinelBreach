@@ -1,5 +1,5 @@
 # HD_SentinelBreach.wad
-A lone highly confidential warehouse has become overrun with demons! Hidous Destructor Exclusive 
+A lone highly confidential warehouse has become overrun with demons! Hideous Destructor Exclusive 
 
 ## Important note
 Uses Freedoom/Lotan's Tomb IWAD for additional textures
