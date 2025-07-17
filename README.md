@@ -1,4 +1,4 @@
-# HD_SentinelBreach
+# HD_SentinelBreach.wad
 A lone highly confidential warehouse has become overrun with demons! Hidous Destructor Exclusive 
 
 ## Important note
